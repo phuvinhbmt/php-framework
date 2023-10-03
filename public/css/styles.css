@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border-spacing: 0px;
+    text-align: left;
+    background: none;
+    width: 1100px;
+}
+th {
+border-bottom: 2px solid #dfe2e5;
+}    
+
+td {
+    background-color: #f4f4f4;
+    height: 25px
+}
+
+#debit {
+    color: red;
+}
+
+#credit {
+    color: blue;
+}
